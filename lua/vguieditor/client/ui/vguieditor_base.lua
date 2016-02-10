@@ -1,3 +1,4 @@
+include("vguieditor_elements.lua")
 local PANEL = {}
 
 PANEL.SizeX = ScrW()-50
